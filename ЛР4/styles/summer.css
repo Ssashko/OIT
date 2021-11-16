@@ -1,0 +1,11 @@
+body {
+    background: url(../img/summer.jpg) center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+:root{
+    --main-color: #F6D155;
+    --secondary-color: black;
+    --ternary-color: white;
+    --logo-color: #008000;
+}

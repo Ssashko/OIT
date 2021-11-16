@@ -1,0 +1,11 @@
+body {
+    background: url(../img/winter.jpg) center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+:root{
+    --main-color: #23568F;
+    --secondary-color: #1D1F29;
+    --ternary-color: #F8E4FF;
+    --logo-color: #A0CCFF;
+}

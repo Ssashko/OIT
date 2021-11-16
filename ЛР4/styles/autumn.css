@@ -1,0 +1,11 @@
+body {
+    background: url(../img/autumn.jpg) center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+:root{
+    --main-color: #BF6730;
+    --secondary-color: black;
+    --ternary-color: white;
+    --logo-color: #BF6730;
+}

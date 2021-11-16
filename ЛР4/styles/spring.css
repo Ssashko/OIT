@@ -1,0 +1,11 @@
+body {
+    background: url(../img/spring.jpg) center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+:root{
+    --main-color: #92B558;
+    --secondary-color: #1D1F29;
+    --ternary-color: white;
+    --logo-color: #008000;
+}
